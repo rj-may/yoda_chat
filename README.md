@@ -1,4 +1,6 @@
-# yoda_chat
+This is the general  overview of the project and technical documentation. For  a simpler overview see the [slides](https://github.com/rj-may/yoda_chat/blob/main/Presentation_Yoda.pptx)
+
+
 # Yoda Trivia Chat LLM Project
 
 ## Overview
